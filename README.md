@@ -72,7 +72,8 @@ Register Number: 212222110010
 
 #### IMAGE 
 
-<img src='raw.jpg'>
+![ex01](https://github.com/DINESH18032004/COLOR_CONVERSIONS_OF-IMAGE/assets/119477784/76a9cc4c-1972-472b-83d8-d061475522ec)
+
 
 ## Program:
 
